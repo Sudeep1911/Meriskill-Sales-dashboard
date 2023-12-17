@@ -3,35 +3,34 @@ This dashboard is created with integration of slicers this dashboard will give c
 
 Major KPI's:
 
-Profit %
+  Profit %
 
-Revenue Generated
+  Revenue Generated
 
-Quantity Sold
+  Quantity Sold
 
 
 Also Analyzed:
 
-Sales by top cities
+  Sales by top cities
 
-Orders of each product
+  Orders of each product
 
-Sales over the year
+  Sales over the year
 
-Price and sales of each product
+  Price and sales of each product
 
 
 Charts Used:
 
-Line and stacked column chart
+  Line and stacked column chart
 
-Map
+  Map
 
-Treemap
+  Treemap
 
-Doughnut chart
+  Doughnut chart
 
-Pie chart
+  Pie chart
 
-Stacked column chart
-
+  Stacked column chart
